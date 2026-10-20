@@ -1,0 +1,6 @@
+{
+  "name": "Food Library",
+  "description": "A warm, personal food journal and library for recording meals, little details, and nutrition with effortless navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
